@@ -4,7 +4,7 @@
 **jdbc.properties**에서 **jdbc.username**, **jdbc.password** 정보만 변경해서 사용하면 된다.
 **Junit**으로 **DB연결**, **dataSource** 연결, **sqlSession**이 정상적으로 생성되었는지 확인할 수 있다.
 
----
+***
 
 ### 추가한 라이브러리
 * 스프링 시큐리티(Spring Security)
